@@ -1,2 +1,2 @@
 google.com, pub-3275007538096659, DIRECT, f08c47fec0942fa0
-https://soukainaic.github.io/app-ads.txt
+facebook.com, 275403050003958, DIRECT, c3e20eee3f780d68
